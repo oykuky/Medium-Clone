@@ -6,6 +6,6 @@
 [Patika.dev](https://app.patika.dev/paths)
 
 ###### Preview
-![site](medium.gif)
+:eyes: :eyes: :eyes:![site](medium.gif)
 
 
